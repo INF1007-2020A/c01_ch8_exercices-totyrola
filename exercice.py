@@ -7,7 +7,7 @@
 
 
 # TODO: Définissez vos fonction ici
-
+with open 
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
