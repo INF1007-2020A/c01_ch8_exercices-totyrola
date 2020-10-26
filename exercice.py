@@ -7,7 +7,7 @@
 
 
 # TODO: Définissez vos fonction ici
-with open()
+with open("a.text", "")
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
