@@ -7,7 +7,8 @@
 
 
 # TODO: Définissez vos fonction ici
-with open("a.text", "r") as a, open("b.text", "r") as b
+with open("a.text", "r") as a, open("b.text", "r") as b:
+    
 
 if __name__ == '__main__':
     # TODO: Appelez vos fonctions ici
